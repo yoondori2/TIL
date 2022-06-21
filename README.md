@@ -1,5 +1,5 @@
 # _📌(TIL) Today I Learned📌_
-
+* [비전공자 개발자 도전기](https://turtle8760.tistory.com/97)
 ## 📣 Introduce
 > (업데이트 예정) 
 
