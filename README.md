@@ -7,6 +7,7 @@
 > 언어 TIL
 >> JAVA
 * [Java 1일차- 자바 기본문법](https://turtle8760.tistory.com/32?category=1059080)
+* [Java 2일차- 변수,연산자](https://turtle8760.tistory.com/33?category=1059080)
 
 
 ## 📚 Study
