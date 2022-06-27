@@ -11,6 +11,7 @@
 * [Java 3일차- 조건문,반복문](https://turtle8760.tistory.com/34?category=1059080)
 * [Java 4,5일차- for문](https://turtle8760.tistory.com/35?category=1059080)
 * [Java 6일차-메소드](https://turtle8760.tistory.com/37?category=1059080)
+* [Java 7일차-클래스](https://turtle8760.tistory.com/38?category=1059080)
 
 ## 📚 Study
 >기타 공부한 것들 기록(업데이트 예정)
