@@ -6,9 +6,12 @@
 
 ## 목차
 </hr>
-1.DTO, VO, Entity 의 차이 (블로그 업로드 예정)
+1.DTO, VO, Entity 의 차이 (블로그 업로드 예정)</br></br>
 
-***
+2.로그인 기능 구현할때 session을 사용한경우 :  
+사용자 A가 접속해도 "user"를 key로 값을 가져오고 사용자 B가 접속해서 똑같이 가져온다. 같은 key를 쓰는데 어떻게 A와 B를 구분해서 값을 가져올까 </br>
+
+* * *
 
 
 ## 1. DTO, VO, Entity 의 차이 
@@ -40,5 +43,12 @@
 |로직 포함 여부|로직을 포함할 수 없다|로직을 포함할 수 있다|로직을 포함할 수 있다|
 
 출처:https://tecoble.techcourse.co.kr/post/2021-05-16-dto-vs-vo-vs-entity/
+
+
+## 2.로그인 기능 구현할때 session을 사용한경우 :  사용자 A가 접속해도 "user"를 key로 값을 가져오고 사용자 B가 접속해서 똑같이 가져온다. 같은 key를 쓰는데 어떻게 A와 B를 구분해서 값을 가져올까 
+
+- Session은 각 클라이언트마다 하나씩 생성되어 제공한다. 그렇기 때문에 HttpSession.getAttribute("user")를 해도 서로 다른 값들이 보이도록 된다. 
+
+
 
 
