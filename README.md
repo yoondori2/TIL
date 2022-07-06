@@ -20,7 +20,7 @@
 * [Java 13일차-Collection Framework](https://turtle8760.tistory.com/45?category=1059080)
 * [Java 14일차-Thread,파일 입출력](https://turtle8760.tistory.com/46?category=1059080)
 >> HTML
-
+* [HTML 1일차-웹브라우저, HTML의 요소](https://turtle8760.tistory.com/59?category=1065203)
 
 
 ## 📚 Study
