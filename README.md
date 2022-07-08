@@ -21,7 +21,7 @@
 * [Java 14일차-Thread,파일 입출력](https://turtle8760.tistory.com/46?category=1059080)
 >> HTML
 * [HTML 1일차-웹브라우저, HTML의 요소](https://turtle8760.tistory.com/59?category=1065203)
-
+* [HTML 2일차-태그, 이미지](https://turtle8760.tistory.com/60?category=1065203)
 
 ## 📚 Study
 >기타 공부한 것들 기록(업데이트 예정)
