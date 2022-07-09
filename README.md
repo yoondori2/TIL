@@ -22,6 +22,7 @@
 >> HTML
 * [HTML 1일차-웹브라우저, HTML의 요소](https://turtle8760.tistory.com/59?category=1065203)
 * [HTML 2일차-태그, 이미지](https://turtle8760.tistory.com/60?category=1065203)
+* [HTML 3일차-테이블](https://turtle8760.tistory.com/61?category=1065203)
 
 ## 📚 Study
 >기타 공부한 것들 기록(업데이트 예정)
