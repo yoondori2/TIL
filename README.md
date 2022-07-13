@@ -26,6 +26,7 @@
 * [HTML 4일차-폼, 디스플레이 속성](https://turtle8760.tistory.com/63?category=1065203)
 >> CSS
 * [CSS CSS란, 선택자](https://turtle8760.tistory.com/64?category=1066316)
+* [CSS 선택자, 텍스트](https://turtle8760.tistory.com/65?category=1066316)
 
 ## 📚 Study
 >기타 공부한 것들 기록(업데이트 예정)
