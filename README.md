@@ -39,7 +39,7 @@
 > 개발 관련 서적 읽기 
 
 * 학교에서 알려주지 않는 17가지 실무 개발 기술(읽는중..)
-* 자바 웹 프로그래밍 Next Step(https://github.com/yoondori2/java_book-web_pro_nextstep)
+* [자바 웹 프로그래밍 Next Step](https://github.com/yoondori2/java_book-web_pro_nextstep)
 
 ## 🎓 Certificate & Review
 > 자격증, 후기 모음 (업데이트 예정)
