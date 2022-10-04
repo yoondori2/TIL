@@ -6,8 +6,8 @@ git clone 주소
 ```
 ```
 // 예시
-$ git clone ssh://git@gitserver.dev.iochord.co.kr:2222/process-re-engineering/apps/front/ipr-fe-core.git
-Cloning into 'ipr-fe-core'...
+$ git clone ssh://git@gitserver.dev.doyoon.co.kr:2222/process-re-engineering/apps/front/ipr-fe-core.git
+Cloning into 'dy-fe-core'...
 remote: Enumerating objects: 183, done.
 remote: Counting objects: 100% (183/183), done.
 remote: Compressing objects: 100% (157/157), done.
@@ -17,7 +17,7 @@ Resolving deltas: 100% (47/47), done.
 ```
 3. 클론한 프로젝트로 디렉토리를 이동한다.
 ```
-cd ./ipr-fe-core
+cd ./dy-fe-core
 ```
 4. 현재 브랜치가 develop인지 확인한다. 아니라면 develop 브랜치로 이동한다.
 ```
@@ -32,7 +32,7 @@ Your branch is up to date with 'origin/develop'.
 ## 프로젝트 최신 버전 유지하기
 1. 본 프로젝트 원격저장소를 추가한다. 보통 upstream 이름을 사용한다.
 ```
-$ git remote add upstream ssh://git@gitserver.dev.iochord.co.kr:2222/process-re-engineering/apps/front/ipr-fe-core.git
+$ git remote add upstream ssh://git@gitserver.dev.doyoon.co.kr:2222/process-re-engineering/apps/front/dy-fe-core.git
 ```
 ```
 $ git remote show
