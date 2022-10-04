@@ -34,6 +34,8 @@
 ## 📚 Study
 >기타 공부한 것들 기록(업데이트 예정)
 #### [🍞빵 부스러기 저장소](https://github.com/yoondori2/TIL/blob/main/BreadCrumbs.md)
+>> Git, Github, Gitlab 사용법 
+#### [Gitlab 사용법]()
 
 ## 📘 Book Review
 > 개발 관련 서적 읽기 
