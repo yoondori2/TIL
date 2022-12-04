@@ -36,7 +36,7 @@
 >> Git, Github, Gitlab 사용법 
 * [Gitlab 사용법](https://github.com/yoondori2/TIL/blob/main/HowToUseGitLab.md)
 >> 빌드도구(Gradle)
-* [빌드도구]
+* [빌드도구](https://github.com/yoondori2/TIL/blob/main/WhatIsBuildTool.md)
 >> etc
 * [🍞빵 부스러기 저장소](https://github.com/yoondori2/TIL/blob/main/BreadCrumbs.md)
 * [🧾트러블 슈팅 기록](https://github.com/yoondori2/TIL/blob/main/NoteToTroubleShooting.md)
