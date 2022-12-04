@@ -32,11 +32,16 @@
 * [CSS Flex, 미디어쿼리](https://turtle8760.tistory.com/68?category=1066316)
 * [CSS 상대크기, CSS](https://turtle8760.tistory.com/69?category=1066316)
 ## 📚 Study
->기타 공부한 것들 기록(업데이트 예정)
-#### [🍞빵 부스러기 저장소](https://github.com/yoondori2/TIL/blob/main/BreadCrumbs.md)
-#### [🧾트러블 슈팅 기록](https://github.com/yoondori2/TIL/blob/main/NoteToTroubleShooting.md)
+> 기타 공부한 것들 기록(업데이트 예정)
 >> Git, Github, Gitlab 사용법 
-#### [Gitlab 사용법](https://github.com/yoondori2/TIL/blob/main/HowToUseGitLab.md)
+* [Gitlab 사용법](https://github.com/yoondori2/TIL/blob/main/HowToUseGitLab.md)
+>> 빌드도구(Gradle)
+* [빌드도구]
+>> etc
+* [🍞빵 부스러기 저장소](https://github.com/yoondori2/TIL/blob/main/BreadCrumbs.md)
+* [🧾트러블 슈팅 기록](https://github.com/yoondori2/TIL/blob/main/NoteToTroubleShooting.md)
+
+
 
 
 ## 📘 Book Review
